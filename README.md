@@ -12,6 +12,6 @@ To get started:
 3. Alter the controller code to point at your desired ACS URL and your Connected App 
 4. Adjust permissions on your profiles to allow the proper users to be able to excute the management and SPInit endpoints
 
-Now, you can have your Service Providers SP-init against /apex/SAMLRequest and the request will be changed so it's requested ACS URL is somewhere besides the SP.   Use thoughtfully and respectfully of course.   
+Now, you can have your Service Providers SP-init against /apex/SAMLRequest and the request will be changed so it's requested ACS URL is somewhere besides the SP.   Use thoughtfully and respectfully of course, as mucking about with SAML Requests has an air of danger...   
 
 
